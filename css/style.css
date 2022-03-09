@@ -1,0 +1,20 @@
+.card-body{
+    padding: 0px;
+}
+.header-first{
+    background-color: rgb(255, 110, 53);
+    padding: 20px;
+    color: beige;
+}
+.header-second{
+    background-color: aqua;
+    padding: 20px;
+}
+.btn-save{
+    background-color: black; 
+    color: aliceblue; 
+    padding:4px 20px;
+}
+.action-btn{
+    padding: 2px 15px;
+}
